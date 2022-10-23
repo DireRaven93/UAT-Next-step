@@ -1,0 +1,8 @@
+.loopButtons
+{
+    width: 100px;
+    height: 60px;
+    background-color: red;
+    border-radius: 200px;
+    border-color: black;
+}
